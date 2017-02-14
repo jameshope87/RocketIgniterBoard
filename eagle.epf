@@ -1,0 +1,60 @@
+[Eagle]
+Version="08 00 01"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/Game Boy.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/GeekAmmo.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/LilyPad-Wearables.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/PAM8403.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Aesthetics.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-AnalogIC.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Boards.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Capacitors.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-DigitalIC.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Displays.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-FreqCtrl.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-LED.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Passives.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-PowerIC.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-RF.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Resistors.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Retired.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/SparkFun-Sensors.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/User-Submitted.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/_hhn_diodes_smd.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/crystal.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/farnell.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/gameboy.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/imcom.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/jameslbr.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/linear3.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/pic32.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/supply1.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/supply2.lbr"
+UsedLibrary="C:/Users/James/Dropbox/eagle/Libraries/adafruit/Adafruit-Eagle-Library/adafruit.lbr"
+
+[Win_1]
+Type="CAM Processor"
+Loc="-8 -31 1191 568"
+State=2
+Number=3
+File="Controller Board.brd"
+Job="C:/Users/James/Dropbox/eagle/CAM/dirt_cheap_dirty_boards.v1.1.cam"
+
+[Win_2]
+Type="Control Panel"
+Loc="-8 -31 1191 568"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
+Window="Win_2"
